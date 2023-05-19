@@ -30,11 +30,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O meu repositório tem o foco em divulgar minhas competências.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://thegabrielsena.github.io/repositorioGabrielSena/)
 
 ## 🔖 Layout
 
-
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/PIZHFylQ2DPIQyZa7c9S2f/Reposit%C3%B3rio-Gabriel-Sena?type=design&t=2dqFuJNgYxXYghYp-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
